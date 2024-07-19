@@ -1,0 +1,5 @@
+colorsys>=0.2.5
+ping3>=2.8.0
+threading>=0.1
+tkinter>=0.1
+numpy>=1.21.2
